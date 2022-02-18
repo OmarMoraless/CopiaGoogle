@@ -1,0 +1,78 @@
+#letrasGoogle{
+    width: 276px;
+    height: 96px;
+    display: block;
+    margin-top: 110px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#busqueda{
+    width: 487px;
+    height: 34px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 34px;
+    border: solid gray .5px;
+    border-radius: 20px;
+}
+
+#pp{
+    border-radius: 40px;
+}
+
+.busqueda{
+    padding: 10px 16px;
+    margin-top: 30px;
+    border-radius: 5px;
+    border: solid gray .5px;
+   
+}
+
+#centro{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+#ofrecidoPor{
+    margin-top: 25px;
+    text-decoration: none;
+    color: black;
+    
+    
+}
+#barraSuperior{
+ margin-left:87%;
+}
+#barraSuperior a{
+    margin-left:12px;
+   }
+
+#footer{
+    margin-top: 25%;
+    margin-left: 0;
+    padding-left: 0;
+   
+    background-color: white;
+    
+   
+  
+}
+#footer #footerArriba{
+    display: inline;
+    border-bottom: 1px solid #dadce0;
+   
+}
+
+#footer #footerAbajo{
+    display: inline;
+    border-bottom: 1px solid #dadce0;
+   
+}
+
+#fooer #footerAbajo li{
+     
+}
